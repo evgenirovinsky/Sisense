@@ -1,0 +1,13 @@
+{
+    "name": "DataExplorer",
+    "source": [
+        "ExplorerConfig.js",
+        "DataExplorer.js"
+    ],
+    "style": [
+        "widget.css"
+    ],
+    "folderName": "DataExplorer",
+    "lastUpdate": "2020-06-08T11:07:10.620Z",
+    "version": "1.0.0"
+}
